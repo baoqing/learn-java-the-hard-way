@@ -20,7 +20,7 @@
 
     To test your installation, open the command prompt, by running `cmd` and type in `javac -version`. It should return you the version of Java installed.
 
-2. Text Editor - For working on the code samples, and writing Java code, use a text editor of your liking - Notepad, Textpad, Notepad++ etc. preferably with the code completion feature turned off. The reason being, it will help you learn the syntax, rather than the IDE / editor completing the syntax for you. This book assumes that your source code and all the Java files that your write will reside in the folder *C:\\code\\java* and will be indicated by __SRC__
+2. Text Editor - For working on the code samples, and writing Java code, use a text editor of your liking - Notepad, Textpad, Notepad++ etc. preferably with the code completion feature turned off. Turing code completion feature off will help you learn the syntax, rather than the IDE / editor completing the syntax for you. This book assumes that your source code and all the Java files that you write will reside in the folder *C:\\code\\java* and will be indicated by __MY_SRC__
 
 
 --------------------------------------------
