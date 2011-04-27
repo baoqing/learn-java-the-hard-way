@@ -16,7 +16,7 @@
 
 1. Java 6 JDK - Visit the [Java SE Downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html) link and download the JDK for the latest version of Java Platform, Standard Edition 6. Select the files for your platform Windows x86 (for 32 bit Windows systems) and Windows x64 (for 64 bit systems). The files downloaded will be of the format jdk-6u<N>-windows-i586.exe or jdk-6u<N>-windows-x64.exe for 32 bit and 64 bit systems respectively.
 
-    Double click on the downloaded file and install JDK in your windows machine in the location *C:\\jdk6*. We will assume that this is your JDK installation directory from here on and will be indicated by __JAVA_HOME__. Add *C:\\jdk6\bin* to your system path environment variable.
+    Double click on the downloaded file and install JDK in your windows machine in the location *C:\\jdk6*. This book will assume that, *C:\\jdk6* is your JDK installation directory from here on, and will be indicated by __JAVA_HOME__. Add *C:\\jdk6\\bin* to your system path environment variable.
 
     To test your installation, open the command prompt, by running `cmd` and type in `javac -version`. It should return you the version of Java installed.
 
